@@ -20,6 +20,7 @@ public class HomePage {
     }
 
     public void acceptCookies() {
+
         baseFunc.click(ACCEPT_COOKIES_BTN);
     }
     public void selectMenuItem(String menuItemName) {
